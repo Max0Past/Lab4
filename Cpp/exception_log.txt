@@ -1,0 +1,22 @@
+Caught exception: NotNumberError: Menu choice must be a number.
+Caught exception: NotNumberError: Menu choice must be a number.
+Caught exception: WrongNumberError: Choice must be a number between 0 and 5.
+Caught exception: NotNumberError: Menu choice must be a number.
+Caught exception: NotFoundFileError: File not found: C:/Users/User/Documents/Беляш/vs/Lab4_final/Lab4_final/aaddresses.txt
+Caught exception: FileContentError: Line 2: Incorrect format (missing ':' separator)
+Caught exception: FileContentError: Line 2: Incorrect data for Appartment (expected 3 or 4 values)
+Caught exception: NotAddressFormatError: You must provide exactly three values: city, street, and building number.
+Caught exception: NotAddressFormatError: You must provide exactly three values: city, street, and building number.
+Caught exception: NotAddressFormatError: You must provide exactly three values: city(str), street(str), and building number(int).
+Caught exception: NotAddressFormatError: You must provide exactly three values: city(str), street(str), and building number(int).
+Caught exception: NotAddressFormatError: You must provide exactly three values: city(str), street(str), and building number(int).
+Caught exception: NotAddressFormatError: City must contain only alphabetic characters.
+Caught exception: NotAddressFormatError: Street must contain only alphabetic characters.
+Caught exception: NotAddressFormatError: You must provide exactly four values: city(str), stree(str), building number(int) and appartment number(int).
+Caught exception: NotAddressFormatError: You must provide exactly four values: city(str), stree(str), building number(int) and appartment number(int).
+Caught exception: NotAddressFormatError: City must contain only alphabetic characters.
+Caught exception: NotAddressFormatError: Street must contain only alphabetic characters.
+Caught exception: NotNumberError: Input contains non-integer values - q. Please enter valid integer numbers.
+Caught exception: WrongNumberError: Number 4 is out of range. Please select valid addresses.
+Caught exception: WrongNumberError: Number 0 is out of range. Please select valid addresses.
+Caught exception: NotNumberError: Input contains non-integer values - -2. Please enter valid integer numbers.

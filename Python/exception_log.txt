@@ -1,0 +1,6 @@
+Caught exception: NotNumberError: Menu choice must be a number.
+Caught exception: NotNumberError: Menu choice must be a number.
+Caught exception: InputError: Choice must be a number between 0 and 5.
+Caught exception: NotAddressFormatError: City and street must be strings containing only alphabetic characters.
+Caught exception: NotAddressFormatError: You must provide exactly three values: city, street, and building number.
+Caught exception: NotAddressFormatError: You must provide exactly three values: city, street, and building number.
